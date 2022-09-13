@@ -1,0 +1,21 @@
+
+.cool,.coolerclass {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.coolerclass{
+    font-size: 24px;
+}
+
+#blueid{
+    color: blue;
+    font-size: 36px;
+}
+
+#greenid{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
